@@ -1,8 +1,8 @@
 {
   "files": {
-    "main.js": "/Emojipedia_React-JS/static/js/main.ecebd779.js",
-    "index.html": "/Emojipedia_React-JS/index.html",
-    "main.ecebd779.js.map": "/Emojipedia_React-JS/static/js/main.ecebd779.js.map"
+    "main.js": "/Emojipedia_React-JS_App/static/js/main.ecebd779.js",
+    "index.html": "/Emojipedia_React-JS_App/index.html",
+    "main.ecebd779.js.map": "/Emojipedia_React-JS_App/static/js/main.ecebd779.js.map"
   },
   "entrypoints": [
     "static/js/main.ecebd779.js"
