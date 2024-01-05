@@ -1,0 +1,104 @@
+@import url('https://fonts.googleapis.com/css2?family=DotGothic16&family=Kaushan+Script&family=Plus+Jakarta+Sans:wght@500&family=Roboto+Mono&display=swap');
+
+<<<<<<< HEAD
+=======
+
+>>>>>>> a866c7e (Change in code)
+body {
+  font-family: "Roboto Mono", sans-serif;
+  font-weight: 400;
+  line-height: 1.666;
+  background: #4FA095;
+  margin: 0 auto;
+  color: #555;
+  width: 80%;
+}
+
+h1 {
+  font-weight: 900;
+  font-size: 350%;
+  text-align: left;
+  margin-top: 4rem;
+  margin-left: 5.5rem;
+  color: #fff;
+  line-height: 1.2;
+}
+
+h1 span {
+  text-align: center;
+  padding: 10px 20px;
+  background: #ccdacf;
+  border-radius: 20px;
+  color: #0a1f3d;
+  border: 2px solid #153462;
+  box-shadow: 8px 8px 1px #153462;
+}
+
+.dictionary {
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: space-around;
+  margin: 4rem auto;
+  max-width: 90%;
+  gap: 1rem;
+
+}
+
+.dictionary > .term {
+  text-align: left;
+  max-width: 17rem;
+  margin-bottom: 3rem;
+  padding: 1.5rem;
+  border-radius: 10px;
+  background-color: #ccdacf;
+  transition: all 100ms ease-in-out;
+  border: 2px solid #153462;
+  box-shadow: 8px 8px 1px #153462;
+}
+
+.dictionary > .term > dt {
+  margin-bottom: 1rem;
+  
+  
+}
+
+dt {
+  color: #153462;
+  line-height: 1;
+}
+
+dt span {
+  font-size: 120%;
+  font-weight: 900;
+  
+}
+
+.emoji {
+  margin: 0 auto 30px;
+  display: block;
+  font-size: 400%;
+}
+
+dd {
+  font-size: 85%;
+  margin-left: 3px;
+  color: #153462;
+}
+
+dd dt {
+  margin-top: 1rem;
+  margin-bottom: 0.25rem;
+  font-weight: 600;
+  font-size: inherit;
+}
+
+dd dl {
+  font-size: 90%;
+  margin: 1rem auto 0 auto;
+  letter-spacing: 0.33px;
+  max-width: 15rem;
+}
+
+dd dl .term {
+  margin-bottom: 1rem;
+}
